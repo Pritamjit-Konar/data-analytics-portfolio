@@ -27,9 +27,6 @@ This project was built and tested in Microsoft Excel. For the most accurate view
 
 ## Project Snapshots
 
-### Dashboard Overview
-![Dashboard](dashboard.png)
-
 ### Raw Dataset
 ![Raw Data](raw_data.png)
 
@@ -38,6 +35,10 @@ This project was built and tested in Microsoft Excel. For the most accurate view
 
 ### Analysis Sheet Example
 ![Analysis](analysis_sheet.png)
+
+### Dashboard Overview
+![Dashboard](dashboard.png)
+
 
 
 ## 📌 Data Source & Disclaimer
