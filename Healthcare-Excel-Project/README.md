@@ -11,6 +11,9 @@ The objective of this project is to show my readiness for entry-level Data Analy
 
 All data used is anonymized / practice data and created only for learning and portfolio purposes.
 
+Full excel working file (Google drive): https://docs.google.com/spreadsheets/d/13BNtST9RLHnMXURCIHH6t-myZZtBaEmM/edit?usp=sharing&ouid=100785637892916320515&rtpof=true&sd=true
+
+
 ## Skills Demonstrated
 - Data cleaning and formatting  
 - Excel formulas and functions  
@@ -19,5 +22,16 @@ All data used is anonymized / practice data and created only for learning and po
 - Attention to data accuracy  
 - Healthcare-focused analytical thinking  
 
-## Project File
-(Excel workbook uploaded in this folder)
+## Project Snapshots
+
+### Dashboard Overview
+![Dashboard](dashboard.png)
+
+### Raw Dataset
+![Raw Data](raw_data.png)
+
+### Cleaned Dataset
+![Cleaned Data](cleaned_data.png)
+
+### Analysis Sheet Example
+![Analysis](analysis_sheet.png)
